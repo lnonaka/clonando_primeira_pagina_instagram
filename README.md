@@ -1,6 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Clonando a interface de login do instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto do bootcamp HtmlWeb Developer, onde pude aplicar os conceitos de Flexbox.
+
 
 ### Os requisitos são:
 
